@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FinnCha
 - 👀 I’m interested in coding and creating with my code.
-- 🌱 I’m currently learning web development, Javascript and React!
+- 🌱 I’m currently learning Python!
 - 📫 How to reach me: chambersfinn037@gmail.com
 
 <!---
